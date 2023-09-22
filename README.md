@@ -1,5 +1,5 @@
 # python_website
-A simple interactive website using Python, Flask, authentication, databases, and more. 
+A web app that allows account creation and saving personal notes is a convenient tool for users to store and manage their personal thoughts, ideas, and reminders securely on the web. It provides a user-friendly interface where users can create an account, log in, and save their notes for future reference. In sumamary: a simple interactive website using Python, Flask, authentication, databases, and more. 
 
 ## Capabilities
 * Create an account with a unique username and a protected password.
